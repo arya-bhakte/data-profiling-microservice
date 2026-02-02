@@ -18,11 +18,9 @@ The service uses **RabbitMQ** and background workers to handle profiling tasks e
 * [Running the Services](#-running-the-services)
 * [API Endpoints](#-api-endpoints)
 * [Example Requests](#-example-requests)
-* [Testing](#-testing)
 * [Configuration](#-configuration)
 * [Design Decisions](#-design-decisions)
 * [Future Enhancements](#-future-enhancements)
-* [Author](#-author)
 
 ---
 
